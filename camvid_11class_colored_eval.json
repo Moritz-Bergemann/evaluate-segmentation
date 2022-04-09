@@ -1,0 +1,61 @@
+{
+    "groundTruthIdMap": "*_L.png",
+    "predictionTruthIdMap": "*.png",
+    "labels": [
+        {
+            "id": 0,
+            "name": "Sky",
+            "rgb": [128, 128, 128]
+        },
+        {
+            "id": 1,
+            "name": "Building",
+            "rgb": [128, 0, 0]
+        },
+        {
+            "id": 2,
+            "name": "Pole",
+            "rgb": [192, 192, 192]
+        },
+        {
+            "id": 3,
+            "name": "Road",
+            "rgb": [128, 64, 128]
+        },
+        {
+            "id": 4,
+            "name": "Pavement",
+            "rgb": [60, 40, 222]
+        },
+        {
+            "id": 5,
+            "name": "Tree",
+            "rgb": [128, 128, 0]
+        },
+        {
+            "id": 6,
+            "name": "SignSymbol",
+            "rgb": [192, 128, 128]
+        },
+        {
+            "id": 7,
+            "name": "Fence",
+            "rgb": [64, 64, 128]
+        },
+        {
+            "id": 8,
+            "name": "Car",
+            "rgb": [64, 0, 128]
+        },
+        {
+            "id": 9,
+            "name": "Pedestrian",
+            "rgb": [64, 64, 0]
+        },
+        {
+            "id": 10,
+            "name": "Bicyclist",
+            "rgb": [0, 128, 192]
+        }
+    ]
+}

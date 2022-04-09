@@ -1,0 +1,101 @@
+{
+    "groundTruthIdMap": "*_gtFine_labelIds.png",
+    "predictionTruthIdMap": "*_leftImg8bit.png",
+    "labels": [
+        {
+            "id": 0,
+            "name": "road", 
+            "rgb": [ 7, 7 ,7]
+        },
+        {
+            "id": 1,
+            "name": "sidewalk", 
+            "rgb": [ 8, 8 ,8]
+        },
+        {
+            "id": 2,
+            "name": "building", 
+            "rgb": [ 11, 11, 11]
+        },
+        {
+            "id": 3,
+            "name": "wall", 
+            "rgb": [ 12, 12, 12]
+        },
+        {
+            "id": 4,
+            "name": "fence", 
+            "rgb": [ 13, 13, 13]
+        },
+        {
+            "id": 5,
+            "name": "pole", 
+            "rgb": [ 17, 17, 17]
+        },
+        {
+            "id": 6,
+            "name": "traffic light", 
+            "rgb": [ 19, 19, 19]
+        },
+        {
+            "id": 7,
+            "name": "traffic sign", 
+            "rgb": [ 20, 20, 20]
+        },
+        {
+            "id": 8,
+            "name": "vegetation", 
+            "rgb": [ 21, 21, 21]
+        },
+        {
+            "id": 9,
+            "name": "terrain", 
+            "rgb": [ 22, 22, 22]
+        },
+        {
+            "id": 10,
+            "name": "sky", 
+            "rgb": [ 23, 23, 23]
+        },
+        {
+            "id": 11,
+            "name": "person", 
+            "rgb": [24, 24, 24]
+        },
+        {
+            "id": 12,
+            "name": "rider", 
+            "rgb": [25, 25, 25]
+        },
+        {
+            "id": 13,
+            "name": "car", 
+            "rgb": [26, 26, 26]
+        },
+        {
+            "id": 14,
+            "name": "truck", 
+            "rgb": [27, 27, 27]
+        },
+        {
+            "id": 15,
+            "name": "bus", 
+            "rgb": [28, 28, 28]
+        },
+        {
+            "id": 16,
+            "name": "train", 
+            "rgb": [31, 31, 31]
+        },
+        {
+            "id": 17,
+            "name": "motorcycle", 
+            "rgb": [32, 32, 32]
+        },
+        {
+            "id": 18,
+            "name": "bicycle", 
+            "rgb": [33, 33, 33]
+        }
+    ]
+}
